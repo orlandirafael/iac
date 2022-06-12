@@ -1,3 +1,3 @@
-do_token = "dop_v1_2cbd2b32d565a6c8920dfcd6ee399366538a71c2fc3826f71ce1ca86e36d3587"
+do_token = "dop_v1_e24f54bc0c6ffb782ed31eaacabd465c37d06236f0305ae6b7a3ec2b25240714"
 k8s_name = "k8s-iniciativa-devops"
 region = "nyc1"
